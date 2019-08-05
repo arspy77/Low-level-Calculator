@@ -7,7 +7,7 @@ A naive calculator for addition, substraction, multiplication, and division impl
     -, +, *, /, %, |, ^, &.
 
 # Build Instruction
-1. Install gcc (GNU C Compiler)
+1. Install gcc (GNU Compiler Collection)
 2. Use gcc to compile kalkulator.c into executable
     (Using "gcc kalkulator.c -o <Name>" in terminal in the same directory to create an executable named <Name>)
 
